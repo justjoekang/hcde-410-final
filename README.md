@@ -1,6 +1,9 @@
 # hcde-410-final
 
-# In this project, I hope to make interesting discoveries in regards to people's public sentiment regarding ChatGPT over the span of 3 months (January to March of 2023). Some potential questions that might be answered thruogh this project are: 1) Are ChatGPT-related tweets garnering more likes and retweets as time passes? 2) How many individual users are engaging with ChatGPT each week or month? 3) Are ChatGPT-related tweets becoming more positive or more negative as time passes?
+# The following project details my experience using TextBlob to perform a natural language processing task (sentiment analysis) on a large set of data. 
+
+# WARNING: The following set of data can be found in the references below. The file of data is NOT included in this folder because of the large size (it was not able to be pushed to Github). To run the code, please download the dataset and save it as 'tweets.csv', and the code should work properly. 
 
 # References
 # https://arxiv.org/abs/2212.05856
+# Dataset: https://www.kaggle.com/datasets/khalidryder777/500k-chatgpt-tweets-jan-mar-2023
